@@ -1,0 +1,5 @@
+spring.cloud.gcp.pubsub.credentials.location=file:/path/to/your/service-account.json
+Replace /path/to/your/service-account.json with the actual path to your Google Cloud service account key file
+
+
+// or remove implementation 'com.google.cloud:spring-cloud-gcp-starter'
