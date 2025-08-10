@@ -1,0 +1,39 @@
+Introduction to Cloud-Native and Microservices
+
+Core Principles of Cloud-Native Development
+
+Containerization with Docker
+
+Orchestration with Kubernetes
+
+CI/CD Pipelines for Cloud-Native Applications
+
+Service Mesh for Inter-Service Communication
+
+API Gateway and Management
+
+Observability: Logging, Monitoring, and Tracing
+
+Cloud-Native Security Best Practices
+
+Building Microservices with Spring Boot
+
+Deploying Microservices to the Cloud
+
+Data Management in Microservices
+
+Serverless Functions and FaaS
+
+Event-Driven Architectures
+
+Building Resilient and Fault-Tolerant Systems
+
+DevOps and GitOps for Cloud-Native
+
+Service Discovery
+
+Scaling Microservices
+
+Cost Management in the Cloud
+
+Choosing the Right Cloud Provider
